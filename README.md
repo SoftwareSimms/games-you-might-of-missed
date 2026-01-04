@@ -1,2 +1,24 @@
-# games-you-might-of-missed
-A growing collection of games that deserve more love. Not the giant blockbusters everyone already knows about, but the clever, ambitious, under-appreciated ones people remember fondly and want others to discover. Started from community recommendations after an ACCU lightning talk, and open to anyone who wants to add their favourites.
+# Got Any Games?
+
+A tiny, community-curated list of game recommendations inspired by my ACCU 2025 lightning talk.
+
+## How to recommend a game
+
+1. Click **Fork** (top right)
+2. Open `games.json`
+3. Add a new game at the end of the list
+4. Open a Pull Request
+
+That’s it.
+
+### Game format
+
+```json
+{
+  "title": "Game Name",
+  "platforms": ["PC"],
+  "tags": ["genre", "vibes"],
+  "why": "One short sentence on why this is worth playing.",
+  "recommendedBy": "your name / handle",
+  "wiki": "https://en.wikipedia.org/wiki/Game_Name"
+}
