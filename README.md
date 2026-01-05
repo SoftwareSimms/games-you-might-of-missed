@@ -1,5 +1,7 @@
 # Got Any Games?
 
+https://softwaresimms.github.io/got-any-games/
+
 A tiny, community-curated list of game recommendations inspired by my ACCU 2025 lightning talk.
 
 ## How to recommend a game
